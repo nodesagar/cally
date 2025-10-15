@@ -1,4 +1,4 @@
-# ChronoSync - AI-Powered Timetable to Calendar Sync
+# Cally - AI-Powered Timetable to Calendar Sync
 
 A sophisticated web application that transforms timetables into smart calendar events with seamless Google Calendar integration and AI-powered parsing.
 
